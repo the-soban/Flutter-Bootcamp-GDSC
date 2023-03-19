@@ -1,0 +1,4 @@
+#Sat Mar 18 23:49:01 PKT 2023
+base.0=C\:\\Programming\\Flutter-Bootcamp-GDSC\\Day 2\\flutter_day2\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
